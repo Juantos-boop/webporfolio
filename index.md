@@ -5,7 +5,7 @@
 ### My works 
 
 [Project 1](/galaxy cat)
-<img src="images/galaxy cat?raw=true"/>
+<img src="images/galaxy cat.png?raw=true"/>
 
 ---
 [Project 2](/Mothers Day Card)
