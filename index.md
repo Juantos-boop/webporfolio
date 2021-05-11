@@ -1,22 +1,25 @@
-## Portfolio
+## Juan Delgados Portfolio
 
 ---
 
-### Category Name 1 
+### My works 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1](/galaxy cat)
+<img src="images/galaxy cat?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2](/Mothers Day Card)
+<img src="images/Mothers Day Card.jpg?raw=true"/>
 
 ---
+[Project 3](/Double Exposure Project)
+<img src="images/Double Exposure.jpg?raw=true"/>
 
+---
+[Project 4](/Phone Wallpaper Project)
+<img src="images/Phone Wallpaper.jpg?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
