@@ -13,7 +13,7 @@
 
 ---
 [Project 3](Double Exposure)
-<img src="images/Double Exposure.jpg?raw=true"/>
+<img src="images/Double Exposure (1).jpg?raw=true"/>
 
 ---
 [Project 4](Phone Wallpaper)
