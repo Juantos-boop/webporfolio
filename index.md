@@ -4,19 +4,19 @@
 
 ### My works 
 
-[Project 1](/galaxy cat)
+[Project 1](galaxy cat)
 <img src="images/galaxy cat.png?raw=true"/>
 
 ---
-[Project 2](/Mothers Day Card)
+[Project 2](Mothers Day Card)
 <img src="images/Mothers Day Card.jpg?raw=true"/>
 
 ---
-[Project 3](/Double Exposure Project)
+[Project 3](Double Exposure)
 <img src="images/Double Exposure.jpg?raw=true"/>
 
 ---
-[Project 4](/Phone Wallpaper Project)
+[Project 4](Phone Wallpaper)
 <img src="images/Phone Wallpaper.jpg?raw=true"/>
 
 ---
